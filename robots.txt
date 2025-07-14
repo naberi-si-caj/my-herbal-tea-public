@@ -2,6 +2,7 @@ User-agent: *
 Disallow: /top_categories/diabetes/
 Disallow: /top_categories/digestion/
 Disallow: /top_categories/excretory-system/
+Disallow: /top_categories/heart-and-circulatory-system/
 Disallow: /top_categories/injuries/
 Disallow: /top_categories/menstruation-and-gynecology/
 Disallow: /top_categories/mental-health/
